@@ -19,9 +19,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "deploy": "npm run build && gh-pages -d build",
-    "predeploy": "npm run build"
+    "lint": "next lint"
   },
   "devDependencies": {
     "@types/node": "^20",
